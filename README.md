@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=tatsushige-ishikawa&theme=onedark)](https://github.com/tatsushige-ishikawa)
+## 📈 Status
+[![trophy](https://github-profile-trophy.vercel.app/?username=tatsushige-ishikawa&theme=onedark&column=7)](https://github.com/tatsushige-ishikawa)
 
 <!--
 **tatsushige-ishikawa/tatsushige-ishikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
